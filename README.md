@@ -34,7 +34,7 @@ Le module émet un ultrason à 40 000 Hz qui se propage dans l'air. Si un objet 
 
 1. Installe la bibliothèque `LiquidCrystal_I2C` dans l'IDE Arduino.  
    ![Installation de la bibliothèque](Images/lib.PNG)  
-2. Télécharge le code `ultrason_lcd.ino` dans le dossier `Codes` et téléverse-le sur ton Arduino.  
+2. Télécharge le code `sonar_lcd.ino` dans le dossier `Code` et téléverse-le sur ton Arduino.  
 3. Ajuste le rétroéclairage de l'écran LCD à l'arrière avec un tournevis.  
    ![Réglage du rétroéclairage](Images/lcd_back.JPG)  
 

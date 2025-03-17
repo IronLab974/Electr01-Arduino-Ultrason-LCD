@@ -9,6 +9,12 @@ Ce projet utilise un capteur ultrasonique HC-SR04 et un écran LCD 16x2 pour mes
 - Écran LCD 16x2 + module I2C  
 - Câbles de connexion mâle/femelle  
 
+## ⚙️ Comment fonctionne le capteur de distance ultrasonique HC-SR04 ?
+
+Le module émet un ultrason à 40 000 Hz qui se propage dans l'air. Si un objet ou un obstacle se trouve sur son chemin, l'onde sonore rebondit vers le capteur. En prenant en compte le temps de trajet et la vitesse du son, il est possible de calculer la distance.
+
+![Module HC-SR04](Images/hcsr04.png)
+
 ## 🔌 Schéma de câblage
 
 | Composant      | Arduino |
@@ -22,11 +28,6 @@ Ce projet utilise un capteur ultrasonique HC-SR04 et un écran LCD 16x2 pour mes
 
 ![Schéma de câblage](Schéma/schema.png)
 
-## ⚙️ Comment fonctionne le capteur de distance ultrasonique HC-SR04 ?
-
-Le module émet un ultrason à 40 000 Hz qui se propage dans l'air. Si un objet ou un obstacle se trouve sur son chemin, l'onde sonore rebondit vers le capteur. En prenant en compte le temps de trajet et la vitesse du son, il est possible de calculer la distance.
-
-![Module HC-SR04](Images/hcsr04.png)
 
 ## 💾 Installation
 

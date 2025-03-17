@@ -21,8 +21,8 @@ Le module émet un ultrason à 40 000 Hz qui se propage dans l'air. Si un objet 
 | Composant      | Arduino |
 |---------------|---------|
 | VCC (HC-SR04) | 5V      |
-| Trig (HC-SR04) | D9      |
-| Echo (HC-SR04) | D10     |
+| Trig (HC-SR04) | D11      |
+| Echo (HC-SR04) | D12     |
 | GND (HC-SR04)  | GND     |
 | SDA (LCD)      | A4      |
 | SCL (LCD)      | A5      |

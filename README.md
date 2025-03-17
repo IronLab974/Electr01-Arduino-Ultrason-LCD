@@ -4,7 +4,8 @@ Ce projet utilise un capteur ultrasonique HC-SR04 et un écran LCD 16x2 pour mes
 
 ## 🛠 Matériel Nécessaire
 
-- Arduino Uno  
+- Arduino Uno
+- Platine de prototypage
 - Capteur ultrason HC-SR04  
 - Écran LCD 16x2 + module I2C  
 - Câbles de connexion mâle/femelle  

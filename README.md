@@ -26,15 +26,15 @@ Ce projet utilise un capteur ultrasonique HC-SR04 et un écran LCD 16x2 pour mes
 
 Le module émet un ultrason à 40 000 Hz qui se propage dans l'air. Si un objet ou un obstacle se trouve sur son chemin, l'onde sonore rebondit vers le capteur. En prenant en compte le temps de trajet et la vitesse du son, il est possible de calculer la distance.
 
-![Module HC-SR04](Images/hcsr04.jpg)
+![Module HC-SR04](Images/hcsr04.png)
 
 ## 💾 Installation
 
 1. Installe la bibliothèque `LiquidCrystal_I2C` dans l'IDE Arduino.  
-   ![Installation de la bibliothèque](Images/lib.png)  
+   ![Installation de la bibliothèque](Images/lib.PNG)  
 2. Télécharge le code `ultrason_lcd.ino` dans le dossier `Codes` et téléverse-le sur ton Arduino.  
 3. Ajuste le rétroéclairage de l'écran LCD à l'arrière avec un tournevis.  
-   ![Réglage du rétroéclairage](Images/lcd_back.jpg)  
+   ![Réglage du rétroéclairage](Images/lcd_back.JPG)  
 
 ## 📜 Code Arduino
 

@@ -96,13 +96,13 @@ IronLab — Passionné d'électronique, robotique & projets DIY
 
 [YouTube](https://youtube.com/@ironlab_974) | [TikTok](https://www.tiktok.com/@ironlab_974) | [Instagram](https://www.instagram.com/ironlab_974)
 
-AquaLab — La technologie au service du monde marin & chasse au trésor.
+AquaLab — La téchnologie au service du monde marin & chasse au trésor.
 
 [YouTube](https://youtube.com/@aqualab_974) | [TikTok](https://www.tiktok.com/@aqualab_974) | [Instagram](https://www.instagram.com/aqualab_974)
 
 Corail Création — Notre boutique
 
-[TikTok](https://www.tiktok.com/@corail.creation) | [Site marchand](https://www.corail-creation.re)
+[TikTok](https://www.tiktok.com/@corail.creation) | [Instagram](https://www.instagram.com/corail.creation) | [Site marchand](https://www.corail-creation.re)
 
 
 ## 📚 Sources  

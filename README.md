@@ -90,12 +90,17 @@ void loop() {
     delay(100); // Mise à jour rapide
 }
 ```
-## 📢 Nous suivre et nous soutenir  
+## ✍️ Nos projets
 
-🔗 **TikTok** : [@ironlab_974](https://www.tiktok.com/@ironlab_974?_t=ZN-8ul8u0JAI7y&_r=1)  
-📺 **YouTube** : [IronLab 974](https://youtube.com/@ironlab_974?si=bJzcrzHVzDJ_9-O3)  
-📸 **Instagram** : [@ironlab_974](https://www.instagram.com/ironlab_974?igsh=a3Njbm5majR2NTd6&utm_source=qr)  
-🛒 **Site marchand** : [Marmaille Réunion](https://www.marmaille-reunion.fr)  
+IronLab — Passionné d'électronique, robotique & projets DIY  
+[YouTube](https://youtube.com/@ironlab_974) | [TikTok](https://www.tiktok.com/@ironlab_974) | [Instagram](https://www.instagram.com/ironlab_974)
+
+AquaLab — La technologie au service du monde marin & chasse au trésor.
+[YouTube](https://youtube.com/@aqualab_974) | [TikTok](https://www.tiktok.com/@aqualab_974) | [Instagram](https://www.instagram.com/aqualab_974)
+
+Corail Création — Notre boutique
+
+[TikTok](https://www.tiktok.com/@corail.creation) | [Site marchand](https://www.corail-creation.re)
 
 
 ## 📚 Sources  
